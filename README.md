@@ -5,14 +5,16 @@ E-learning is an education via the Internet, network, or standalone computer. E-
 
 ### Website : (Static View)
 
-```
+
 https://shubham-sutar.github.io/E-Learning_Platform/
-```
+
 
 ### Our Services
+
 1. **Free Courses.**
 2. **Programming Hub.**
 3. **E-Books.**
+
 
 ## Screen Shots
 
