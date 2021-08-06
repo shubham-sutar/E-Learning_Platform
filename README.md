@@ -20,7 +20,3 @@ https://shubham-sutar.github.io/E-Learning_Platform/
 
 ![Screenshot (841)](https://user-images.githubusercontent.com/68117385/128470683-110304c4-2af1-4f65-ad6a-c0110982ad93.png)
 
-
-## YES WE ARE _TECH-WORLD DEVLOPERS_... !!
-
-![Screenshot (843)](https://user-images.githubusercontent.com/68117385/128470837-64cfbc19-6b93-47cb-8706-e58f7be8af1c.png)
