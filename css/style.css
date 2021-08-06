@@ -1,0 +1,133 @@
+/* .navbar {
+  padding: 18px 0px;
+
+  background-color: #494d50 !important;
+
+  border-bottom: none !important;
+  transition: all 0.5s ease-in-out;
+} */
+.navbar-nav {
+  font-family: "Poppins", sans-serif;
+  margin-left: auto;
+}
+ul li a {
+  color: white !important;
+  /* font-weight: bold; */
+  font-size: 18px;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  transition: all 0.5s ease-in;
+}
+
+ul li a:hover {
+  color: deepskyblue !important;
+  font-size: 19px;
+}
+.navbar-toggle {
+  border: 1px solid white !important;
+  transition: all 0.5s ease-in;
+}
+.navbar-toggle:hover {
+  background-color: deepskyblue !important;
+}
+
+#our-location {
+  border: 1px solid white;
+  border-radius: 45px;
+  padding: 12px 12px 12px 12px;
+
+  background: deepskyblue !important;
+}
+#our-location:hover {
+  background-color: white !important;
+}
+
+.navbar-inverse {
+  background-color: #34495e !important;
+}
+
+.card1:hover {
+  -webkit-box-shadow: -1px 9px 40px -12px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: -1px 9px 40px -12px rgba(0, 0, 0, 0.75);
+  box-shadow: -1px 9px 40px -12px rgba(0, 0, 0, 0.75);
+}
+
+/* sidebar css start */
+
+.card-body {
+  font-family: "Poppins", sans-serif;
+}
+.demo:hover {
+  -webkit-box-shadow: -1px 9px 40px -12px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: -1px 9px 40px -12px rgba(0, 0, 0, 0.75);
+  box-shadow: -1px 9px 40px -12px rgba(0, 0, 0, 0.75);
+}
+.card-body ul li a {
+  font-size: 16px;
+  text-transform: capitalize;
+
+  /* text-decoration: none; */
+  font-weight: 300;
+  color: blue !important;
+  display: block;
+  transition: all 0.3s ease;
+}
+.card-body ul li a:hover {
+  color: deepskyblue;
+  padding-left: 8px;
+}
+/* sidebar css end */
+
+/* page-link css start */
+
+/* page-link css end */
+/* Our Team css start */
+.our-team:hover {
+  -webkit-box-shadow: -1px 9px 40px -12px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: -1px 9px 40px -12px rgba(0, 0, 0, 0.75);
+  box-shadow: -1px 9px 40px -12px rgba(0, 0, 0, 0.75);
+}
+
+.social-links a {
+  display: inline-block;
+  height: 50px;
+  width: 40px;
+  background-color: rgba(255, 255, 255, 0.2);
+  margin: 0 10px 10px 0;
+  text-align: center;
+  line-height: 80px;
+  /* border-radius: 50%; */
+  color: black;
+  transition: all 0.5s ease;
+}
+/* Our Team css end */
+/* Back to top button start */
+#btn-back-to-top {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  display: none;
+  border-radius: 50%;
+}
+/* Back to top button end- */
+
+/* pagination css  start*/
+
+.pagedemo ul li a {
+  font-family: "Poppins", sans-serif;
+  color: white !important;
+  background-color: #04aa6d;
+  border-color: #04aa6d;
+  font-size: 13px;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  border-radius: 5px;
+  transition: all 0.5s ease-in;
+}
+.pagedemo ul li a:hover {
+  background-color: #04aa6d !important;
+  color: white;
+  font-size: 13px;
+}
+/* pagination css  end*/
+
